@@ -3,7 +3,7 @@ class program23 {
         try {
             int a = 20;
             int b = 0;
-
+ 
             int result = a / b;  
             System.out.println("Result = " + result);
         }
