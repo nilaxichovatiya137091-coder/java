@@ -3,7 +3,7 @@ class program22 {
         try {
             int a = 10, b = 0;
             int c = a / b;   
-            System.out.println("Result = " + c);
+            System.out.println("Result = " + c); 
         }
         catch (ArithmeticException e) {
             System.out.println("Arithmetic Exception: Division by zero is not allowed.");
