@@ -4,7 +4,7 @@ class program24 {
             int a = 10, b = 0;
             int c = a / b;  
             System.out.println(c);
-        }
+        } 
         catch (ArithmeticException e) {
             System.out.println("Exception Caught");
         }
